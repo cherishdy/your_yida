@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>492CAE2B-9647-474D-9AE3-E8F8A5E76EFC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>51810444487488ECE5E90A413E199BE4B3C37B22</key>
+		<string>https://github.com/Rdxer/your_yida.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>c-yvyv/c-yvyv.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>51810444487488ECE5E90A413E199BE4B3C37B22</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rdxer/your_yida.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51810444487488ECE5E90A413E199BE4B3C37B22</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51810444487488ECE5E90A413E199BE4B3C37B22</string>
+			<key>IDESourceControlWCCName</key>
+			<string>your_yida</string>
+		</dict>
+	</array>
+</dict>
+</plist>
